@@ -11,3 +11,7 @@ https://youtu.be/s_eFuGauy6k
 
 Git course: 
 https://www.udacity.com/course/ud775
+
+
+mybashrc.txt shows my configuration for bash
+
