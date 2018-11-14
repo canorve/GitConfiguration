@@ -13,5 +13,5 @@ Git course:
 https://www.udacity.com/course/ud775
 
 
-mybashrc.txt shows my configuration for bash
+mybashrc.txt shows my personal configuration for bash
 
